@@ -1,2 +1,2 @@
 # learnNode
-Criação de uma Api node  para estudos
+Criação de uma Api  em nodeJS  para estudos
